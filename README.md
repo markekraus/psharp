@@ -11,7 +11,7 @@ PowerShell is a Microsoft interactive shell and scripting language created in 20
 In 2016, Microsoft made the language Open Source.
 However, challenges with balancing between Microsoft's needs and Community asks has proven difficult.
 The PowerShell Committee, the governing body for the language, is compromised completely of current and former Microsoft Employees.
-This leaves the language and many of the core language issue held hostage by a team that is not incentivized to prioritize language needs over business needs.
+This leaves the language and many of the core language issues held hostage by a team that is not incentivized to prioritize language needs over business needs.
 
 This project seeks to replace PowerShell with a similar language, but one built from the ground up to be a community programming language first.
 
@@ -23,7 +23,7 @@ This project seeks to replace PowerShell with a similar language, but one built 
 
 ## To Do
 
-## Meta-activities
+### Meta-activities
 
 * Create rules for P# Foundation membership
 * Plan for P# Foundation incorporation and business structure
