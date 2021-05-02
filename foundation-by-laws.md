@@ -1,6 +1,6 @@
 # Foundation By-Laws
 
-This is temporary until the foundation is formalized.
+This is temporary until the Foundation is formalized.
 
 ## Foundation Membership
 
@@ -40,10 +40,11 @@ A Foundation Member may request a Leave of Absence for up to 1 year by submittin
 
 During a leave of absence, the Foundation Member may 
 
-Select a Proxy Voter for their entire leave of absence,
-Select a Proxy Voter for specific sessions,
-Select a Proxy Voter for specific agenda items, or
-Abstain from voting and be removed from consideration for a quorum for the duration of the leave of absence.
+1. Select a Proxy Voter for their entire leave of absence,
+1. Select a Proxy Voter for specific sessions,
+1. Select a Proxy Voter for specific agenda items, or
+1. Abstain from voting and be removed from consideration for a quorum for the duration of the leave of absence.
+
 Upon the conclusion of the term for the leave of absence, the Foundation Member will be considered active and subject to the by-laws of the Foundation Membership Term.
 
 ## Revoking Foundation Membership
@@ -75,4 +76,63 @@ In the event of a tie, the President may vote.
 
 A Simple Majority will be 60% or more of votes in a session with due quorum.
 In the event of a tie, the President may vote.
+
+## Proxy Voting
+
+A Foundation Member may designate any other Foundation Member, including the President or Parliamentarian, to serve as a proxy for their vote.
+The Foundation Member must submit the name and scope of their designated Proxy Voter to the Parliamentarian no less than 24 hours before any general or special session.
+The scope of a Proxy Voter can be any of the following:
+
+1. Any number of specific agenda items,
+1. An entire session,
+1. An entire leave of absence.
+
+A Foundation Member should choose a Proxy Voter they trust to vote in the Foundation Member's interests.
+The Foundation Member cannot later contest a vote cast by a designated Proxy Voter on the Foundation Member's behalf.
+Proxy Voters found voting in bad faith may be subjected to sanctions, but a vote, once cast, cannot be rescinded.
+
+## General Sessions
+
+The Foundation shall set a regular cadence for General Sessions at an interval determined to be reasonable by The Foundation by simple majority.
+The Foundation shall use General Sessions to conduct regular business of The Foundation.
+Sponsors must submit Agenda Items to The Parliamentarian no less than 72 hours before a General Session.
+The Parliamentarian must publish the submitted Agenda Items at least 24 hours before a General Session.
+
+A General Session shall first conduct continued business from any previous session before addressing any new business.
+The President may reprioritized Agenda Items based on the urgent operating needs of The Foundation.
+Foundation Members may put forward a motion to reprioritize Agenda Items, and the motion shall carry with a simple majority.
+Foundation Members may not bring new Agenda Items for business during a General Session.
+
+## Special Sessions
+
+Special Sessions may be called at any time by at least three foundation members or by The President.
+The Foundation shall use Special Sessions to conduct any business that cannot wait for a General Session or would not be appropriate for a General Session.
+Special Sessions shall be scheduled no less than 24 hours in advance.
+Sponsors must submit Agenda Items to The Parliamentarian no less than 24 hours before a Special Session.
+The Parliamentarian must publish the submitted Agenda Items at least 12 hours before a Special Session.
+
+The Foundation may only conduct business for the specified Agenda Items.
+The Foundation may not use Special Sessions to conduct continued or new business.
+
+## Emergency Sessions
+
+The President may, at any time, schedule an Emergency Session to conduct emergency business.
+Foundation Members may bring emergency Agenda Items during the Emergency Session without any prior submission.
+All emergency Agenda Items shall pass with a simple majority.
+
+The President and The Foundation may not use Emergency Sessions to subvert normal business.
+The Foundation may overturn decisions made during an Emergency Session with a large majority at any Special or General Session.
+The Foundation may sanction The President they find The President has abused the power of Emergency Sessions.
+
+## Agenda Items and Sponsorship
+
+Foundation Members may submit Agenda Items before the designated minimum time before a Special or General Session or during an Emergency Session.
+Sponsors of Agenda Items will determine the correct majority (Simple or Large) to pass the Agenda Item.
+Agenda Items requiring a simple majority must have a minimum of three sponsors.
+Agenda Items requiring a large majority must have a minimum of five sponsors.
+
+Only Foundation Members (including The Parliamentarian and The President) may sponsor Agenda Items; however, sponsors may collect signatures from contributors and community members to strengthen the support for an Agenda Item.
+Contributors and community members may engage Foundation members for sponsorship of Agenda Items.
+The Foundation may empower contributors, SMEs, or Workgroups to act as non-voting sponsors for Agenda Items in their limited scope of authority.
+Only one non-voting sponsor may be listed as a sponsor for any Agenda Item, and the remaining sponsors must be Foundation members.
 
