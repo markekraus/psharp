@@ -75,7 +75,7 @@ In the event of a tie, the President may vote.
 
 ## Large Majority
 
-A Simple Majority will be 60% or more of votes in a session with due quorum.
+A Large Majority will be 60% or more of votes in a session with due quorum.
 In the event of a tie, the President may vote.
 
 ## Proxy Voting
