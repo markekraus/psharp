@@ -123,7 +123,7 @@ All emergency Agenda Items shall pass with a simple majority.
 
 The President and The Foundation may not use Emergency Sessions to subvert normal business.
 The Foundation may overturn decisions made during an Emergency Session with a large majority at any Special or General Session.
-The Foundation may sanction The President they find The President has abused the power of Emergency Sessions.
+The Foundation may sanction The President if they find The President has abused the power of Emergency Sessions.
 
 ## Agenda Items and Sponsorship
 
