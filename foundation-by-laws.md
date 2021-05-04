@@ -24,12 +24,12 @@ A Foundation Member's term is permanent but dependent on activity.
 To maintain active status as a Foundation Member, the Foundation Member must be counted as actively present at least once in three general sessions or once in any number of general or special sessions in a three-month period, whichever period is longest. 
 
 Failure to meet the minimum presence requirements will result in being placed on a permanent leave of absence in which no voting either by active presence or proxy is allowed.
-To return from a permanent leave of absence,  a minimum of two active Foundation Members must sponsor the Foundation Manber wishing to return from a permanent leave of absence.
+To return from a permanent leave of absence,  a minimum of two active Foundation Members must sponsor the Foundation Member wishing to return from a permanent leave of absence.
 The sponsoring Foundation Members will submit the sponsorship as an agenda item to the Parliamentarian for a general or special session.
 The Foundation Members will hold a debate during the designated session.
-The Foundation Members may vote to allow the Foundation Manber wishing to return from a permanent leave of absence to speak for no more than 15 minutes.
-The Foundation Members may also vote to require the Foundation Manber wishing to return from a permanent leave of absence to be questioned.
-A simple majority of active Foundation Members must approve the return status of the Foundation Manber wishing to return from a permanent leave of absence.
+The Foundation Members may vote to allow the Foundation Member wishing to return from a permanent leave of absence to speak for no more than 15 minutes.
+The Foundation Members may also vote to require the Foundation Member wishing to return from a permanent leave of absence to be questioned.
+A simple majority of active Foundation Members must approve the return status of the Foundation Member wishing to return from a permanent leave of absence.
 
 A Foundation Member may resign at any time by submitting to the Parlimentarian a letter of resignation. 
 The letter of resignation must include an effective date.
@@ -100,7 +100,7 @@ Sponsors must submit Agenda Items to The Parliamentarian no less than 72 hours b
 The Parliamentarian must publish the submitted Agenda Items at least 24 hours before a General Session.
 
 A General Session shall first conduct continued business from any previous session before addressing any new business.
-The President may reprioritized Agenda Items based on the urgent operating needs of The Foundation.
+The President may reprioritize Agenda Items based on the urgent operating needs of The Foundation.
 Foundation Members may put forward a motion to reprioritize Agenda Items, and the motion shall carry with a simple majority.
 Foundation Members may not bring new Agenda Items for business during a General Session.
 
