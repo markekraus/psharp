@@ -3,6 +3,15 @@
 This document lays out the roles for the Foundation.
 This document is a temporary guide until the Foundation is formalized.
 
+Table of Contents
+
+- [Foundation Roles and Responsibilities](#foundation-roles-and-responsibilities)
+  - [Foundation President](#foundation-president)
+  - [Foundation Member](#foundation-member)
+  - [Parliamentarian](#parliamentarian)
+  - [Contributor](#contributor)
+  - [Proxy Voter](#proxy-voter)
+
 ## Foundation President
 
 The Foundation president is elected by a large majority of the Foundation.
@@ -22,7 +31,7 @@ There must be a minimum of 5 foundation members at all times.
 The Foundation will set maximum foundation members at a later date.
 A foundation member may also be a Contributor, Proxy Voter, and/or Parliamentarian.
 
-## Parlimentarian
+## Parliamentarian
 
 The Parliamentarian is responsible for ensuring and enforcing the by-laws of the Foundation.
 They must be intimately familiar with the by-laws as well as Robert's Rules of Order.

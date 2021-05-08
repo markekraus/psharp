@@ -1,6 +1,22 @@
 # Foundation By-Laws
 
-This is temporary until the Foundation is formalized.
+Table of Contents
+
+- [Foundation By-Laws](#foundation-by-laws)
+  - [Foundation Membership](#foundation-membership)
+    - [Initial Membership](#initial-membership)
+    - [Becoming a Foundation Member](#becoming-a-foundation-member)
+    - [Foundation Membership Term](#foundation-membership-term)
+    - [Foundation Member Leave of Absence](#foundation-member-leave-of-absence)
+  - [Revoking Foundation Membership](#revoking-foundation-membership)
+  - [Quorum](#quorum)
+  - [Simple Majority](#simple-majority)
+  - [Large Majority](#large-majority)
+  - [Proxy Voting](#proxy-voting)
+  - [General Sessions](#general-sessions)
+  - [Special Sessions](#special-sessions)
+  - [Emergency Sessions](#emergency-sessions)
+  - [Agenda Items and Sponsorship](#agenda-items-and-sponsorship)
 
 ## Foundation Membership
 
@@ -21,7 +37,7 @@ The Foundation Members must elect the candidate by a large majority.
 ### Foundation Membership Term
 
 A Foundation Member's term is permanent but dependent on activity.
-To maintain active status as a Foundation Member, the Foundation Member must be counted as actively present at least once in three general sessions or once in any number of general or special sessions in a three-month period, whichever period is longest. 
+To maintain active status as a Foundation Member, the Foundation Member must be counted as actively present at least once in three general sessions or once in any number of general or special sessions in a three-month period, whichever period is longest.
 
 Failure to meet the minimum presence requirements will result in being placed on a permanent leave of absence in which no voting either by active presence or proxy is allowed.
 To return from a permanent leave of absence,  a minimum of two active Foundation Members must sponsor the Foundation Member wishing to return from a permanent leave of absence.
@@ -31,7 +47,7 @@ The Foundation Members may vote to allow the Foundation Member wishing to return
 The Foundation Members may also vote to require the Foundation Member wishing to return from a permanent leave of absence to be questioned.
 A simple majority of active Foundation Members must approve the return status of the Foundation Member wishing to return from a permanent leave of absence.
 
-A Foundation Member may resign at any time by submitting to the Parlimentarian a letter of resignation. 
+A Foundation Member may resign at any time by submitting to the Parliamentarian a letter of resignation.
 The letter of resignation must include an effective date.
 On the effective date, the resigning Foundation Member will no longer be a Foundation Member.
 
@@ -39,7 +55,7 @@ On the effective date, the resigning Foundation Member will no longer be a Found
 
 A Foundation Member may request a Leave of Absence for up to 1 year by submitting the leave of absence to the Parliamentarian.
 
-During a leave of absence, the Foundation Member may 
+During a leave of absence, the Foundation Member may
 
 1. Select a Proxy Voter for their entire leave of absence,
 1. Select a Proxy Voter for specific sessions,
@@ -134,6 +150,5 @@ Agenda Items requiring a large majority must have a minimum of five sponsors.
 
 Only Foundation Members (including The Parliamentarian and The President) may sponsor Agenda Items; however, sponsors may collect signatures from contributors and community members to strengthen the support for an Agenda Item.
 Contributors and community members may engage Foundation members for sponsorship of Agenda Items.
-The Foundation may empower contributors, SMEs, or Workgroups to act as non-voting sponsors for Agenda Items in their limited scope of authority.
+The Foundation may empower contributors, SMEs, or Work Groups to act as non-voting sponsors for Agenda Items in their limited scope of authority.
 Only one non-voting sponsor may be listed as a sponsor for any Agenda Item, and the remaining sponsors must be Foundation members.
-

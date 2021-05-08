@@ -2,8 +2,27 @@
 
 P# is a PowerShell-based programming language built by the community for the community.
 
-Please note that P# is a working name and not official.
+Please note that "P#" is a working name and not official.
 The P# Foundation will select the official name and change it accordingly.
+
+Table of Contents
+
+- [P# Language](#p-language)
+  - [Background](#background)
+  - [Links](#links)
+  - [Terms](#terms)
+  - [To Do](#to-do)
+    - [Meta-activities](#meta-activities)
+    - [Foundation Actions](#foundation-actions)
+    - [Completed](#completed)
+  - [FAQs](#faqs)
+    - [Does markekraus own this language?](#does-markekraus-own-this-language)
+    - [Who are the founding members of the foundation?](#who-are-the-founding-members-of-the-foundation)
+    - [How do I become a foundation member?](#how-do-i-become-a-foundation-member)
+    - [Can I participate if I am not a Foundation Member?](#can-i-participate-if-i-am-not-a-foundation-member)
+    - [Where can I see foundation communications?](#where-can-i-see-foundation-communications)
+    - [Will this be a fork of PowerShell?](#will-this-be-a-fork-of-powershell)
+    - [What about X/Y/Z language feature/bug/etc?](#what-about-xyz-language-featurebugetc)
 
 ## Background
 
@@ -11,32 +30,42 @@ PowerShell is a Microsoft interactive shell and scripting language created in 20
 In 2016, Microsoft made the language Open Source.
 However, challenges with balancing between Microsoft's needs and Community asks have proven difficult.
 The PowerShell Committee, the governing body for the language, comprises only current and former Microsoft Employees.
-This leaves the language, and many of the core language issues held hostage by a team that is not incentivized to prioritize language needs over business needs.
+This leaves the language, and many of the core language issues at the mercy of Microsoft.
 
 This project seeks to replace PowerShell with a similar language, but one built from the ground up to be a community programming language first.
 
+## Links
+
+- [Foundation Members](foundation-members.md)
+- [Foundation Roles](foundation-roles.md)
+- [Foundation By-Laws](foundation-by-laws.md)
+- [Foundation Resolution](foundation-resolutions.md)
+
 ## Terms
 
-* P# - The working name for the language.
-* P# Foundation - The governing body for the P# language that also serves as the copyright and holder, and licenser.
-* Source Language - The parent language P# is written in.
+- P# - The working name for the language.
+- P# Foundation - The governing body for the P# language that also serves as the copyright and holder, and licenser.
+- Source Language - The parent language P# is written in.
 
 ## To Do
 
 ### Meta-activities
 
-* Create rules for P# Foundation membership
-* Plan for P# Foundation incorporation and business structure
-* Create rules for P# Foundation quorum and voting
-* Identify and recruit initial P# Foundation members
+- Plan for P# Foundation incorporation and business structure
 
 ### Foundation Actions
 
-* Nominate and Elect Foundation President
-* Nominate and Elect registered agent of due process
-* Decide on the language name
-* Ratify Articles of Incorporation
-* Decide on Source Language
+- Nominate and Elect registered agent of due process
+- Decide on the language name
+- Ratify Articles of Incorporation
+- Decide on Source Language
+
+### Completed
+
+- Create rules for P# Foundation membership
+- Create rules for P# Foundation quorum and voting
+- Identify and recruit initial P# Foundation members
+- Nominate and Elect Foundation President
 
 ## FAQs
 
@@ -50,28 +79,28 @@ Mark is more of a facilitator than an owner, and his long-term involvement in th
 
 ### Who are the founding members of the foundation?
 
-We are not yet ready to disclose a list of foundation members.
-We can say that the foundation is made up of well-known PowerShell community members whose books, blogs, and presentations many in the community would recognize.
-We can also say the foundation currently doesn't have any PowerShell Committee members.
-Mark's involvement makes it evident that at least one Microsoft employee is a foundation member, but no Microsoft employee is serving on the committee as a representative of Microsoft.
-We will release the names of the founding members after we formalize the foundation.
+You can find info on the current and founding members at [Foundation Members](foundation-members.md).
 
 ### How do I become a foundation member?
 
-Currently, membership is mostly closed until the foundation is formalized.
+Foundation membership is governed by the [foundation by-laws](foundation-by-laws.md).
 
-However, in some cases, we may invite additional PowerShell community members.
-If you are interested in joining at this early stage, reach out to Mark, and he will facilitate possible early membership.
-At the moment, we will only be accepting new members who are familiar with starting and operating nonprofit organizations or are experienced with language steering committees to help boot the foundation.
-We will assess adding technical members to the foundation after the foundation is formalized.
+### Can I participate if I am not a Foundation Member?
+
+Absolutely!
+This is a language made for the community by the community.
+The Foundation Members are the governing body similar to the PowerShell Committee or the Python Foundation.
+Any member of the community can engage Foundation Members to sponsor resolutions.
+Once we have a codebase, anyone will be able to participate in the open source project.
+
+Do you have something specific you would like to do or help with?
+We'd be happy to have any help we can get.
+Just reach out to the Foundation Members and explain what you have in mind and we'll make it happen if possible.
 
 ### Where can I see foundation communications?
 
-We have a community discord server we are not making public just yet.
-We need to set up the foundation and server to handle the many interested users we expect.
-We will be making all current and previous conversations publicly viewable on that server.
-Our objective isn't to keep things secret but to ensure we are set up for success before we invite the community at large.
-If you are seriously interested in joining in a read-only fashion, reach out to Mark, and he will facilitate that for a limited scope of community members.
+You can join the foundation discord at [https://discord.gg/NnSp873WUw](https://discord.gg/NnSp873WUw).
+You must read and agree to the rules before you can participate in server activities.
 
 ### Will this be a fork of PowerShell?
 
