@@ -40,6 +40,7 @@ This project seeks to replace PowerShell with a similar language, but one built 
 - [Foundation Roles](foundation-roles.md)
 - [Foundation By-Laws](foundation-by-laws.md)
 - [Foundation Resolution](foundation-resolutions.md)
+- [Foundation General Sessions Schedule](foundation-general-sessions-schedule.md)
 
 ## Terms
 
