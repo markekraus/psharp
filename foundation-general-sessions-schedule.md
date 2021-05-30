@@ -21,4 +21,4 @@ Recordings of General Sessions will be made available.
 + [Saturday, July 3rd, 2021, 7pm PDT](https://everytimezone.com/s/f530b4dd)
 + [Wednesday, July 21st, 2021, 8am PDT](https://everytimezone.com/s/f530b4dd)
 + [Saturday, August 7th, 2021, 8am PDT](https://everytimezone.com/s/aed10993)
-+ [Wednesday, July 18TH, 2021, 7pm PDT](https://everytimezone.com/s/d3d2f096)
++ [Wednesday, August 18TH, 2021, 7pm PDT](https://everytimezone.com/s/d3d2f096)
