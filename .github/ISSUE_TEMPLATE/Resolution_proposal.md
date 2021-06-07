@@ -1,3 +1,11 @@
+---
+name: Resolution Proposal
+about: Put forward a proposal for a resolution to be considered at a Foundation Session
+title: ''
+labels: 'agenda-item-proposed'
+assignees: 'corbob'
+
+---
 <!--
 The suggested workflow of a resolution proposal is as follows:
 
